@@ -12,7 +12,7 @@ class O2FullDeps < Formula
   depends_on "coreutils"
   depends_on "gettext"
   depends_on "texinfo"
-  depends_on "glfw3"
+  depends_on "glfw"
   depends_on "gmp"
   depends_on "gsl"
   depends_on "hub"
